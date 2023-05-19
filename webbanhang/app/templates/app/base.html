@@ -52,7 +52,7 @@
       <nav style="background: linear-gradient(to right, skyblue, lightgreen);" class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
           <a class="navbar-brand" href="{% url 'home' %}">
-            <img src="{%static 'app/images/avata.jpg' %}" width="100", height="90" />
+            <img src="{%static 'app/images/avata.jpg' %}" width="100px", height="90px" />
           </a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -82,14 +82,26 @@
             <form class="d-flex" role="search" method=POST action="{% url 'search' %}">
               {% csrf_token %}
               <input style="width:270%;" class="form-control me-1" type="text" placeholder="Nhập sản phẩm cần tìm..." aria-label="Search" name="searched">
-              <button style="border-radius: 5px;" class= "btn btn-outline-success me-3" type="submit">Tìm kiếm</button>
+              <button style="border-radius: 5px;" class= "btn btn-outline-success me-2" type="submit">Tìm kiếm</button>
             </form>             
           </div>
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <div class='form-inline my-0 my-lg-2 me-2'>
+            <div class='form-inline my-0 my-lg-2 me-0'>
               <span><strong> Xin chào! {{request.user}}</strong></span>
             </div>
+          </ul>
+            <div class='form-inline my-2 my-lg-0'>
             
+              <a href="{% url 'cart' %}"><img id="cart-icon" src="{% static 'images/cart.png' %}"></a>
+              <p1 class="me-2">{{cartItems}}</p1>
+              <style>
+                p1{
+                  color: red;
+                  font-weight: bold;
+                }
+              </style>
+            </div>
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
               <a class="nav-link" href="{% url 'login' %}">Đăng nhập</a>
             </li>
@@ -99,17 +111,15 @@
             <li class="nav-item">
               <a class="nav-link" href="{% url 'logout' %}">Đăng xuất</a>
           </ul>
-          <div class='form-inline my-2 my-lg-0'>
-            
-            <a href="{% url 'cart' %}"><img id="cart-icon" src="{% static 'images/cart.png' %}"></a>
-            <p1>{{cartItems}}</p1>
-            <style>
-              p1{
-                color: red;
-                font-weight: bold;
-              }
-            </style>
-          </div>
+          <style>
+            .nav-item .nav-link {
+              color: black;
+            }
+            .nav-item .nav-link:hover {
+              color: #ffcc00;
+              transition: all 0.5s ease;
+            }
+          </style>
         </div>
       </nav>
     </header>
