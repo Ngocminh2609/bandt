@@ -1,0 +1,63 @@
+{% extends 'app/base.html' %}
+{% load static %}
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        {% block login %}
+        <section>
+            <div class="login-box">
+                <form class="mx-1 mx-md-4" method='POST' action = ''>
+                <h2 style="color:#fff;">Đăng nhập</h2>
+                        {% csrf_token %}
+                            <div class="input-box">
+                                <span class="icon"><ion-icon name="person-circle-outline"></ion-icon></span>
+                                <input type="text" required name="username">
+                                <label>Tài khoản</label>
+                            </div>
+                            <div class="input-box">
+                                <span class="icon"><ion-icon name="lock-closed-outline"></ion-icon></span>
+                                <input type="password" required id="password-input" name="password">
+                                <label>Mật khẩu</label>
+                            </div>
+                            <div class="remember-forgot">
+                                <label><input type="checkbox">Nhớ mật khẩu</label>
+                                <a href="#">Quên mật khẩu?</a>
+                            </div>
+                            
+                            <div class="d-flex justify-content-center mx-4 mb-3 mb-lg-4">
+                                <button style="border-radius: 10px;" type="submit" class="btn btn-outline-primary btn-lg">Đăng nhập</button>
+                              </div>
+                            
+                            <div class="register-link">
+                                <p>Bạn chưa có tài khoản? <a href="{% url 'register' %}" style="color:red">Đăng ký</a></p>
+                            </div>
+                            {% for message in messages %}
+                            <p id='message' class="text-center h6 fw-bold mb-5 mx-1 mx-md-4 mt-4">{{message}}</p>
+                            {% endfor %}
+                          </form>
+          
+                        </div>
+                        
+          
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+        <script src="" async defer></script>
+        <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+        <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+        {% endblock login %}
+    </body>
+</html>

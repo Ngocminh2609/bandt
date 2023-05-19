@@ -1,0 +1,765 @@
+[
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "webbanhang.app.migrations.0001_initial",
+        "description": "webbanhang.app.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Customer',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "webbanhang.app.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "webbanhang.app.migrations.0002_product_image",
+        "description": "webbanhang.app.migrations.0002_product_image",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('app', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='product',\n            name='image',\n            field=models.ImageField(blank=True, null=True, upload_to=''),\n        ),",
+        "detail": "webbanhang.app.migrations.0002_product_image",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "webbanhang.app.migrations.0003_alter_order_customer_alter_shippingaddress_customer_and_more",
+        "description": "webbanhang.app.migrations.0003_alter_order_customer_alter_shippingaddress_customer_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('app', '0002_product_image'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='order',\n            name='customer',\n            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.SET_NULL, to=settings.AUTH_USER_MODEL),",
+        "detail": "webbanhang.app.migrations.0003_alter_order_customer_alter_shippingaddress_customer_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "webbanhang.app.migrations.0004_product_description",
+        "description": "webbanhang.app.migrations.0004_product_description",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('app', '0003_alter_order_customer_alter_shippingaddress_customer_and_more'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='product',\n            name='description',\n            field=models.TextField(blank=True, null=True),\n        ),",
+        "detail": "webbanhang.app.migrations.0004_product_description",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "webbanhang.app.migrations.0005_category",
+        "description": "webbanhang.app.migrations.0005_category",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('app', '0004_product_description'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Category',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('is_sub', models.BooleanField(default=False)),",
+        "detail": "webbanhang.app.migrations.0005_category",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "webbanhang.app.migrations.0006_product_category",
+        "description": "webbanhang.app.migrations.0006_product_category",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('app', '0005_category'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='product',\n            name='category',\n            field=models.ManyToManyField(related_name='product', to='app.category'),\n        ),",
+        "detail": "webbanhang.app.migrations.0006_product_category",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "kind": 6,
+        "importPath": "webbanhang.app.apps",
+        "description": "webbanhang.app.apps",
+        "peekOfCode": "class AppConfig(AppConfig):\n    name = 'app'",
+        "detail": "webbanhang.app.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "kind": 6,
+        "importPath": "webbanhang.app.models",
+        "description": "webbanhang.app.models",
+        "peekOfCode": "class Category(models.Model):\n    sub_category = models.ForeignKey('self', on_delete=models.CASCADE, related_name='sub_categories', null=True, blank=True)\n    is_sub = models.BooleanField(default=False)\n    name = models.CharField(max_length=200, null=True)\n    slug = models.SlugField(max_length=200,unique=True)\n    def __str__(self):\n        return self.name\nclass CreateUserForm(UserCreationForm):\n    class Meta:\n        model = User",
+        "detail": "webbanhang.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "CreateUserForm",
+        "kind": 6,
+        "importPath": "webbanhang.app.models",
+        "description": "webbanhang.app.models",
+        "peekOfCode": "class CreateUserForm(UserCreationForm):\n    class Meta:\n        model = User\n        fields = ['username','email','first_name','last_name','password1','password2']\n# class Customer(models.Model):\n#     user = models.OneToOneField(User,on_delete=models.SET_NULL,null=True,blank=False)\n#     name = models.CharField(max_length=200,null=True)\n#     email = models.CharField(max_length=200,null=True)\n#     def __str__(self):\n#         return self.name",
+        "detail": "webbanhang.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "kind": 6,
+        "importPath": "webbanhang.app.models",
+        "description": "webbanhang.app.models",
+        "peekOfCode": "class Product(models.Model):\n    category = models.ManyToManyField(Category,related_name='product')\n    name = models.CharField(max_length=100)\n    price = models.DecimalField(max_digits=12, decimal_places=0)\n    digital = models.BooleanField(default=False,null=True,blank=False)\n    image = models.ImageField(null=True,blank=True)\n    description = models.TextField(blank=True, null=True)\n    def __str__(self):\n        return self.name\n    @property",
+        "detail": "webbanhang.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "kind": 6,
+        "importPath": "webbanhang.app.models",
+        "description": "webbanhang.app.models",
+        "peekOfCode": "class Order(models.Model):\n    customer = models.ForeignKey(User,on_delete=models.SET_NULL,blank=True,null=True)\n    date_order = models.DateTimeField(auto_now_add=True)\n    complete = models.BooleanField(default=False,null=True,blank=False)\n    transaction_id = models.CharField(max_length=200,null=True)\n    def __str__(self):\n        return str(self.id)\n    @property\n    def get_cart_items(self):\n        orderitems = self.orderitem_set.all()",
+        "detail": "webbanhang.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderItem",
+        "kind": 6,
+        "importPath": "webbanhang.app.models",
+        "description": "webbanhang.app.models",
+        "peekOfCode": "class OrderItem(models.Model):\n    product = models.ForeignKey(Product,on_delete=models.SET_NULL,blank=True,null=True)\n    order = models.ForeignKey(Order,on_delete=models.SET_NULL,blank=True,null=True)\n    quantity = models.IntegerField(default=0,null=True,blank=True)\n    date_added = models.DateTimeField(auto_now_add=True)\n    @property\n    def get_total(self):\n        total = self.product.price * self.quantity\n        return total\nclass ShippingAddress(models.Model):",
+        "detail": "webbanhang.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "ShippingAddress",
+        "kind": 6,
+        "importPath": "webbanhang.app.models",
+        "description": "webbanhang.app.models",
+        "peekOfCode": "class ShippingAddress(models.Model):\n    customer = models.ForeignKey(User,on_delete=models.SET_NULL,blank=True,null=True)\n    order = models.ForeignKey(Order,on_delete=models.SET_NULL,blank=True,null=True)\n    address = models.CharField(max_length=200,null=True)\n    city = models.CharField(max_length=200,null=True)\n    state = models.CharField(max_length=200,null=True)\n    mobile = models.CharField(max_length=200,null=True)\n    date_added = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.address",
+        "detail": "webbanhang.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "webbanhang.app.urls",
+        "description": "webbanhang.app.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.home, name=\"home\"),\n    path('register/', views.register, name=\"register\"),\n    path('login/', views.loginPage, name=\"login\"),\n    path('search/', views.search, name=\"search\"),\n    path('category/', views.category, name=\"category\"),\n    path('logout/', views.logoutPage, name=\"logout\"),\n    path('cart/', views.cart, name=\"cart\"),\n    path('checkout/', views.checkout, name=\"checkout\"),\n    path('update_item/', views.updateItem, name=\"update_item\"),",
+        "detail": "webbanhang.app.urls",
+        "documentation": {}
+    },
+    {
+        "label": "category",
+        "kind": 2,
+        "importPath": "webbanhang.app.views",
+        "description": "webbanhang.app.views",
+        "peekOfCode": "def category(request):\n    categories = Category.objects.filter(is_sub=False)\n    active_category = request.GET.get('category','')\n    if active_category:\n        products = Product.objects.filter(category__slug = active_category)\n    context = {'categories':categories,'products':products,'active_category':active_category}\n    return render(request,'app/category.html',context)\ndef search(request):\n    if request.method == \"POST\":\n        searched = request.POST[\"searched\"]",
+        "detail": "webbanhang.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 2,
+        "importPath": "webbanhang.app.views",
+        "description": "webbanhang.app.views",
+        "peekOfCode": "def search(request):\n    if request.method == \"POST\":\n        searched = request.POST[\"searched\"]\n        keys = Product.objects.filter(name__contains = searched)\n    if request.user.is_authenticated:\n        customer = request.user\n        order, created = Order.objects.get_or_create(customer=customer,complete=False)\n        items = order.orderitem_set.all()\n        cartItems = order.get_cart_items\n    else:",
+        "detail": "webbanhang.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "webbanhang.app.views",
+        "description": "webbanhang.app.views",
+        "peekOfCode": "def register(request):\n    form = CreateUserForm()\n    if request.method == \"POST\":\n        form = CreateUserForm(request.POST)\n        if form.is_valid():\n            form.save()\n        return redirect('login')\n    context = {'form':form}\n    return render(request,'app/register.html',context)\ndef loginPage(request):",
+        "detail": "webbanhang.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "loginPage",
+        "kind": 2,
+        "importPath": "webbanhang.app.views",
+        "description": "webbanhang.app.views",
+        "peekOfCode": "def loginPage(request):\n    if request.user.is_authenticated:\n        return redirect('home')\n    if request.method == \"POST\":\n        username = request.POST.get('username')\n        password = request.POST.get('password')\n        user = authenticate(request,username=username,password=password)\n        if user is not None:\n            login(request,user)\n            return redirect('home')",
+        "detail": "webbanhang.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "logoutPage",
+        "kind": 2,
+        "importPath": "webbanhang.app.views",
+        "description": "webbanhang.app.views",
+        "peekOfCode": "def logoutPage(request):\n    logout(request)\n    return redirect('login')\ndef home(request):\n    if request.user.is_authenticated:\n        customer = request.user\n        order, created = Order.objects.get_or_create(customer=customer,complete=False)\n        items = order.orderitem_set.all()\n        cartItems = order.get_cart_items\n    else:",
+        "detail": "webbanhang.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "webbanhang.app.views",
+        "description": "webbanhang.app.views",
+        "peekOfCode": "def home(request):\n    if request.user.is_authenticated:\n        customer = request.user\n        order, created = Order.objects.get_or_create(customer=customer,complete=False)\n        items = order.orderitem_set.all()\n        cartItems = order.get_cart_items\n    else:\n        items =[]\n        order = {'get_cart_items':0,'get_cart_total':0}\n        cartItems = order['get_cart_items']",
+        "detail": "webbanhang.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "cart",
+        "kind": 2,
+        "importPath": "webbanhang.app.views",
+        "description": "webbanhang.app.views",
+        "peekOfCode": "def cart(request):\n    if request.user.is_authenticated:\n        customer = request.user\n        order, created = Order.objects.get_or_create(customer=customer,complete=False)\n        items = order.orderitem_set.all()\n        cartItems = order.get_cart_items\n    else:\n        items =[]\n        order = {'get_cart_items':0,'get_cart_total':0}\n        cartItems = order['get_cart_items']",
+        "detail": "webbanhang.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "checkout",
+        "kind": 2,
+        "importPath": "webbanhang.app.views",
+        "description": "webbanhang.app.views",
+        "peekOfCode": "def checkout(request):\n    if request.user.is_authenticated:\n        customer = request.user\n        order, created = Order.objects.get_or_create(customer=customer,complete=False)\n        items = order.orderitem_set.all()\n        cartItems = order.get_cart_items\n    else:\n        items =[]\n        order = {'get_cart_items':0,'get_cart_total':0}\n        cartItems = order['get_cart_items']",
+        "detail": "webbanhang.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "updateItem",
+        "kind": 2,
+        "importPath": "webbanhang.app.views",
+        "description": "webbanhang.app.views",
+        "peekOfCode": "def updateItem(request):\n    data = json.loads(request.body)\n    productId = data['productId']\n    action = data['action']\n    customer = request.user\n    product = Product.objects.get(id = productId)\n    order, created = Order.objects.get_or_create(customer=customer,complete=False)\n    orderItem, created = OrderItem.objects.get_or_create(order=order,product=product)\n    if action == 'add':\n        orderItem.quantity +=1",
+        "detail": "webbanhang.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "introduction",
+        "kind": 2,
+        "importPath": "webbanhang.app.views",
+        "description": "webbanhang.app.views",
+        "peekOfCode": "def introduction(request):\n    categories = Category.objects.filter(is_sub=False)\n    context = {'categories':categories}\n    return render(request, 'app/introduction.html', context)\ndef contact(request):\n    categories = Category.objects.filter(is_sub=False)\n    context = {'categories':categories}\n    return render(request, 'app/contact.html', context)",
+        "detail": "webbanhang.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "contact",
+        "kind": 2,
+        "importPath": "webbanhang.app.views",
+        "description": "webbanhang.app.views",
+        "peekOfCode": "def contact(request):\n    categories = Category.objects.filter(is_sub=False)\n    context = {'categories':categories}\n    return render(request, 'app/contact.html', context)",
+        "detail": "webbanhang.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "webbanhang.webbanhang.settings",
+        "description": "webbanhang.webbanhang.settings",
+        "peekOfCode": "BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/2.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'k9n*#3lzw!sgb3u^r1ri4**#_cdjravk24b92$z6^%i-f52(sm'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "webbanhang.webbanhang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "webbanhang.webbanhang.settings",
+        "description": "webbanhang.webbanhang.settings",
+        "peekOfCode": "SECRET_KEY = 'k9n*#3lzw!sgb3u^r1ri4**#_cdjravk24b92$z6^%i-f52(sm'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "webbanhang.webbanhang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "webbanhang.webbanhang.settings",
+        "description": "webbanhang.webbanhang.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "webbanhang.webbanhang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "webbanhang.webbanhang.settings",
+        "description": "webbanhang.webbanhang.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'app',",
+        "detail": "webbanhang.webbanhang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "webbanhang.webbanhang.settings",
+        "description": "webbanhang.webbanhang.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'app',\n]\nMIDDLEWARE = [",
+        "detail": "webbanhang.webbanhang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "webbanhang.webbanhang.settings",
+        "description": "webbanhang.webbanhang.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'webbanhang.urls'",
+        "detail": "webbanhang.webbanhang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "webbanhang.webbanhang.settings",
+        "description": "webbanhang.webbanhang.settings",
+        "peekOfCode": "ROOT_URLCONF = 'webbanhang.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "webbanhang.webbanhang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "webbanhang.webbanhang.settings",
+        "description": "webbanhang.webbanhang.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "webbanhang.webbanhang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "webbanhang.webbanhang.settings",
+        "description": "webbanhang.webbanhang.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'webbanhang.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/2.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation",
+        "detail": "webbanhang.webbanhang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "webbanhang.webbanhang.settings",
+        "description": "webbanhang.webbanhang.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/2.2/ref/settings/#auth-password-validators\n# AUTH_PASSWORD_VALIDATORS = [\n#     {",
+        "detail": "webbanhang.webbanhang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "webbanhang.webbanhang.settings",
+        "description": "webbanhang.webbanhang.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static')",
+        "detail": "webbanhang.webbanhang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "webbanhang.webbanhang.settings",
+        "description": "webbanhang.webbanhang.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static')\n]",
+        "detail": "webbanhang.webbanhang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "webbanhang.webbanhang.settings",
+        "description": "webbanhang.webbanhang.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static')\n]\nMEDIA_URL = '/images/'",
+        "detail": "webbanhang.webbanhang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "webbanhang.webbanhang.settings",
+        "description": "webbanhang.webbanhang.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static')\n]\nMEDIA_URL = '/images/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'app/static/images')",
+        "detail": "webbanhang.webbanhang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "webbanhang.webbanhang.settings",
+        "description": "webbanhang.webbanhang.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static')\n]\nMEDIA_URL = '/images/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'app/static/images')",
+        "detail": "webbanhang.webbanhang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "webbanhang.webbanhang.settings",
+        "description": "webbanhang.webbanhang.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static')\n]\nMEDIA_URL = '/images/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'app/static/images')",
+        "detail": "webbanhang.webbanhang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "webbanhang.webbanhang.settings",
+        "description": "webbanhang.webbanhang.settings",
+        "peekOfCode": "STATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static')\n]\nMEDIA_URL = '/images/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'app/static/images')",
+        "detail": "webbanhang.webbanhang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "webbanhang.webbanhang.settings",
+        "description": "webbanhang.webbanhang.settings",
+        "peekOfCode": "MEDIA_URL = '/images/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'app/static/images')",
+        "detail": "webbanhang.webbanhang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "webbanhang.webbanhang.settings",
+        "description": "webbanhang.webbanhang.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR,'app/static/images')",
+        "detail": "webbanhang.webbanhang.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "webbanhang.webbanhang.urls",
+        "description": "webbanhang.webbanhang.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('app.urls')),\n]\n#Load image\nurlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "webbanhang.webbanhang.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "webbanhang.webbanhang.wsgi",
+        "description": "webbanhang.webbanhang.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "webbanhang.webbanhang.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "webbanhang.manage",
+        "description": "webbanhang.manage",
+        "peekOfCode": "def main():\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'webbanhang.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"\n        ) from exc",
+        "detail": "webbanhang.manage",
+        "documentation": {}
+    }
+]
