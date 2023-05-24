@@ -64,23 +64,12 @@
       <hr>
 
       <button data-product={{product.id}} data-action="add" class="btn btn-outline-secondary add-btn update-cart">Thêm vào giỏ hàng</button>
-      <button class="btn btn-outline-success" onclick="showProductInfo('{{ product.description }}', '{{ product.price }}')">Thông tin sản phẩm</button>
+      <a style="width: 100%;" class="btn btn-outline-success" href="{%url 'detail' %}?id={{product.id}}">Thông tin sản phẩm</a>
       <h3 style="color: red; display: inline; float: left, down"><strong>Giá: {{product.price | floatformat:0}} VND</strong></h3>
 
     </div>
   </div>
   
   {% endfor %}
-  <script>
-    function showProductInfo(description, price) {
-      // Hiển thị thông tin sản phẩm bằng cách sử dụng JavaScript hoặc thư viện jQuery.
-      // Ví dụ:
-      alert("Mô tả: " + description + "\nGiá: " + price + " VND");
-      // Hiển thị hình ảnh sản phẩm:
-      var img = new ImageURL();
-      img.src = image;
-      document.body.appendChild(img);
-    }
-    </script>
 </div>
 {% endblock main-content %}

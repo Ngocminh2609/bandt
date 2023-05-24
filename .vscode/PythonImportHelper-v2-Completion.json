@@ -120,6 +120,30 @@
         "documentation": {}
     },
     {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
         "label": "models",
         "importPath": "django.db",
         "description": "django.db",
@@ -394,6 +418,24 @@
         "documentation": {}
     },
     {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "webbanhang.app.migrations.0007_remove_product_description",
+        "description": "webbanhang.app.migrations.0007_remove_product_description",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('app', '0006_product_category'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='product',\n            name='description',\n        ),\n    ]",
+        "detail": "webbanhang.app.migrations.0007_remove_product_description",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "webbanhang.app.migrations.0008_product_detail",
+        "description": "webbanhang.app.migrations.0008_product_detail",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('app', '0007_remove_product_description'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='product',\n            name='detail',\n            field=models.TextField(blank=True, null=True),\n        ),",
+        "detail": "webbanhang.app.migrations.0008_product_detail",
+        "documentation": {}
+    },
+    {
         "label": "AppConfig",
         "kind": 6,
         "importPath": "webbanhang.app.apps",
@@ -425,7 +467,7 @@
         "kind": 6,
         "importPath": "webbanhang.app.models",
         "description": "webbanhang.app.models",
-        "peekOfCode": "class Product(models.Model):\n    category = models.ManyToManyField(Category,related_name='product')\n    name = models.CharField(max_length=100)\n    price = models.DecimalField(max_digits=12, decimal_places=0)\n    digital = models.BooleanField(default=False,null=True,blank=False)\n    image = models.ImageField(null=True,blank=True)\n    description = models.TextField(blank=True, null=True)\n    def __str__(self):\n        return self.name\n    @property",
+        "peekOfCode": "class Product(models.Model):\n    category = models.ManyToManyField(Category,related_name='product')\n    name = models.CharField(max_length=100)\n    price = models.DecimalField(max_digits=12, decimal_places=0)\n    digital = models.BooleanField(default=False,null=True,blank=False)\n    image = models.ImageField(null=True,blank=True)\n    detail = models.TextField(null=True, blank=True)\n    def __str__(self):\n        return self.name\n    @property",
         "detail": "webbanhang.app.models",
         "documentation": {}
     },
@@ -461,8 +503,17 @@
         "kind": 5,
         "importPath": "webbanhang.app.urls",
         "description": "webbanhang.app.urls",
-        "peekOfCode": "urlpatterns = [\n    path('', views.home, name=\"home\"),\n    path('register/', views.register, name=\"register\"),\n    path('login/', views.loginPage, name=\"login\"),\n    path('search/', views.search, name=\"search\"),\n    path('category/', views.category, name=\"category\"),\n    path('logout/', views.logoutPage, name=\"logout\"),\n    path('cart/', views.cart, name=\"cart\"),\n    path('checkout/', views.checkout, name=\"checkout\"),\n    path('update_item/', views.updateItem, name=\"update_item\"),",
+        "peekOfCode": "urlpatterns = [\n    path('', views.home, name=\"home\"),\n    path('register/', views.register, name=\"register\"),\n    path('login/', views.loginPage, name=\"login\"),\n    path('search/', views.search, name=\"search\"),\n    path('category/', views.category, name=\"category\"),\n    path('detail/', views.detail, name=\"detail\"),\n    path('logout/', views.logoutPage, name=\"logout\"),\n    path('cart/', views.cart, name=\"cart\"),\n    path('checkout/', views.checkout, name=\"checkout\"),",
         "detail": "webbanhang.app.urls",
+        "documentation": {}
+    },
+    {
+        "label": "detail",
+        "kind": 2,
+        "importPath": "webbanhang.app.views",
+        "description": "webbanhang.app.views",
+        "peekOfCode": "def detail(request):\n    if request.user.is_authenticated:\n        customer = request.user\n        order, created = Order.objects.get_or_create(customer=customer,complete=False)\n        items = order.orderitem_set.all()\n        cartItems = order.get_cart_items\n    else:\n        items =[]\n        order = {'get_cart_items':0,'get_cart_total':0}\n        cartItems = order['get_cart_items']",
+        "detail": "webbanhang.app.views",
         "documentation": {}
     },
     {
